@@ -1,4 +1,4 @@
-# Below are some of the most important product manager KPIs:
+* Below are some of the most important product manager KPIs:
 
 ## Acquisition Metrics - how many new users have started using your product/feature in a specific time period - total user base & increase in user base?
 
