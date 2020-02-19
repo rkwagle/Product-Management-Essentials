@@ -7,6 +7,8 @@ using data: As PM you are building parachute as you jump from plane. With data i
 data: what to build + also it will validate if the thing we built was a good choice
 - Learn -> Build -> Measure -> Learn
 
+## All things Product
+ - Product Market fit (https://firstround.com/review/how-superhuman-built-an-engine-to-find-product-market-fit/)
 
 ## Product decision (inputs)
  - Business objectives
