@@ -9,6 +9,7 @@ data: what to build + also it will validate if the thing we built was a good cho
 
 ## All things Product
  - Product Market fit (https://firstround.com/review/how-superhuman-built-an-engine-to-find-product-market-fit/)
+ - OKR (https://www.productplan.com/prioritize-product-roadmap-with-okrs/)
 
 ## Product decision (inputs)
  - Business objectives
