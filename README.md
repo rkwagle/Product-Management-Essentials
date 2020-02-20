@@ -30,3 +30,8 @@ data: what to build + also it will validate if the thing we built was a good cho
 
 ## Machine learning into product management
 - lots of data, there is a pattern, there is a recommended solution
+
+## Cloud, Inf and AWS
+
+## Data and Analytics
+
